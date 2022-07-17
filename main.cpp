@@ -7,7 +7,7 @@ const char* getLink()
 
 int main()
 {
-    std::cout << getLink << std::endl;
+    std::cout << getLink() << std::endl;
     system("pause");
     return 0;
 }
